@@ -4,6 +4,7 @@
 
 Atliq Hardwares, a hypothetical leading computer hardware producer in India, seeks to enhance its data analytics capabilities for smarter decision-making. This project involves executing SQL queries to address key business inquiries and presenting insights to executive management, showcasing a blend of technical and soft skills crucial for data-driven strategies.
 
+
 ## Problem Statement
 
 **Domain**:  Consumer Goods | **Function**: Executive Management
@@ -20,10 +21,12 @@ Imagine yourself as the applicant for this role and perform the following tasks
 2.    Run a SQL query to answer these requests. 
 3.    The target audience of this dashboard is top-level management - hence create a presentation to show the insights.
 
+
 ## Features
 
 - SQL queries and data analysis to address specific business questions.
 - Creation of visualizations to present data insights effectively.
+
 
 ## Project Structure
 
@@ -40,68 +43,72 @@ The project structure is organized as follows:
 - `queries_ad_hoc.sql`: A SQL file containing the Solution I have created to the Ad-Hoc Requests
 - `README.md`: The project's documentation.
 
+
 ## Ad-Hoc Requests
 
 Below are the ad-hoc requests that this project addresses along with their outputs as images:
 
 1. **List of Markets in APAC for Customer "Atliq Exclusive"**
 
-   ![image](requests_resultset\request_code_resultset_images\request_1.png)
+   ![image](https://github.com/ameyss97/Codebasics_challenge_6_consumer_goods_adhoc_reqs/blob/main/requests_resultset/request_code_resultset_images/request_1.png?raw=true)
 
 
 2. **Percentage Increase in Unique Products (2021 vs. 2020)**
 
-   ![image](requests_resultset\request_code_resultset_images\request_2.png)
+   ![image](https://github.com/ameyss97/Codebasics_challenge_6_consumer_goods_adhoc_reqs/blob/main/requests_resultset/request_code_resultset_images/request_2.png?raw=true)
 
 
 3. **Unique Product Counts by Segment (Descending Order)**
 
-   ![image](requests_resultset\request_code_resultset_images\request_3.png)
+   ![image](https://github.com/ameyss97/Codebasics_challenge_6_consumer_goods_adhoc_reqs/blob/main/requests_resultset/request_code_resultset_images/request_3.png?raw=true)
 
 
 4. **Segment with the Most Increase in Unique Products (2021 vs. 2020)**
 
-   ![image](requests_resultset\request_code_resultset_images\request_4.png)
+   ![image](https://github.com/ameyss97/Codebasics_challenge_6_consumer_goods_adhoc_reqs/blob/main/requests_resultset/request_code_resultset_images/request_4.png?raw=true)
 
 
 5. **Highest and Lowest Manufacturing Costs**
 
-   ![image](requests_resultset\request_code_resultset_images\request_5.png)
+   ![image](https://github.com/ameyss97/Codebasics_challenge_6_consumer_goods_adhoc_reqs/blob/main/requests_resultset/request_code_resultset_images/request_5.png?raw=true)
 
 
 6. **Top 5 Customers with High Pre-Invoice Discount (FY 2021, Indian Market)**
 
-   ![image](requests_resultset\request_code_resultset_images\request_6.png)
+   ![image](https://github.com/ameyss97/Codebasics_challenge_6_consumer_goods_adhoc_reqs/blob/main/requests_resultset/request_code_resultset_images/request_6.png?raw=true)
 
 
 7. **Gross Sales Amount for Customer "Atliq Exclusive" by Month**
 
-   ![image](requests_resultset\request_code_resultset_images\request_7_1.png)
-   ![image](requests_resultset\request_code_resultset_images\request_7_2.png)
-   ![image](requests_resultset\request_code_resultset_images\request_7_3.png)
+   ![image](https://github.com/ameyss97/Codebasics_challenge_6_consumer_goods_adhoc_reqs/blob/main/requests_resultset/request_code_resultset_images/request_7_1.png?raw=true)
+   ![image](https://github.com/ameyss97/Codebasics_challenge_6_consumer_goods_adhoc_reqs/blob/main/requests_resultset/request_code_resultset_images/request_7_2.png?raw=true)
+   ![image](https://github.com/ameyss97/Codebasics_challenge_6_consumer_goods_adhoc_reqs/blob/main/requests_resultset/request_code_resultset_images/request_7_3.png?raw=true)
+
 
 8. **Quarter with Maximum Total Sold Quantity (2020)**
 
-   ![image](requests_resultset\request_code_resultset_images\request_8.png)
+   ![image](https://github.com/ameyss97/Codebasics_challenge_6_consumer_goods_adhoc_reqs/blob/main/requests_resultset/request_code_resultset_images/request_8.png?raw=true)
 
 
 9. **Channel Contribution to Gross Sales (FY 2021)**
 
-   ![image](requests_resultset\request_code_resultset_images\request_9.png)
+   ![image](https://github.com/ameyss97/Codebasics_challenge_6_consumer_goods_adhoc_reqs/blob/main/requests_resultset/request_code_resultset_images/request_9.png?raw=true)
 
 
 10. **Top 3 Products by Division with High Total Sold Quantity (FY 2021)**
 
-    ![image](requests_resultset\request_code_resultset_images\request_10.png)
+   ![image](https://github.com/ameyss97/Codebasics_challenge_6_consumer_goods_adhoc_reqs/blob/main/requests_resultset/request_code_resultset_images/request_10.png?raw=true)
 
 
 ## Presentation
 
 - TODO [Presentation Slide Deck](/relative-link-to/slide-deck)
 
+
 ## Technologies Used
 
 - MySQL
+
 
 ## Acknowledgement
 
